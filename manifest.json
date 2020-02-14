@@ -1,10 +1,11 @@
 {
-    "name":"bear",
+    "name":"BCA Social",
     "version": "1.0",
     "manifest_version": 2,
     "content_scripts": [
         {
             "matches": ["<all_urls>"],
-            "js": ["content.j"] 
+            "js": ["content.js"] 
         }
+    }
 }

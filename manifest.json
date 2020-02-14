@@ -7,5 +7,9 @@
             "matches": ["<all_urls>"],
             "js": ["content.js"] 
         }
+    ],
+    "browser_action": {
+        "defualt_popup": "popup.html",
+        "defualt_title": "Instagrams"
     }
 }

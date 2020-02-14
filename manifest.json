@@ -9,7 +9,7 @@
         }
     ],
     "browser_action": {
-        "default_title": "Instagrams"
+        "default_title": "Social"
     },
     "background": {
       "scripts": ["background.js"]

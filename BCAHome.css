@@ -1,0 +1,59 @@
+header{
+    background: goldenrod;
+    color: white;
+    font-family: Helvetica Neue, Helvetica, Arial;
+    padding: 40px 20px;
+    /* background-image: url(B.png);
+    background-size: 100%;
+    background-position: center; */
+  }
+  
+  body{
+    background: black;
+    /* background-image: url(B.png); */
+    text-align: center;
+    margin: 0;
+    padding: 0;
+  }
+  
+  ul{
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+  }
+  
+  li{
+    display: inline-block;
+    margin-right: 20px;
+  }
+  
+  li:hover{
+    background-color: goldenrod;
+    font-size: 25px;
+    font-weight: bold;
+  }
+  
+  h1{
+    color:white;
+  }
+  
+  footer{
+    background: goldenrod;
+    color: white;
+    padding: 10px 20px;
+  }
+  
+  section{
+    background:black;
+    color: white;
+    padding: 20px;
+    display: flex;
+    flex-direction: row;
+  }
+  
+  div{
+    background: goldenrod;
+    width: 100px;
+    height: 100px;
+    margin: auto;
+  }

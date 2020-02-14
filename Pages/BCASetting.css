@@ -24,14 +24,9 @@ header{
   
   li{
     display: inline-block;
-    margin-right: 20px;
+    margin-right: 40px;
   }
   
-  li:hover{
-    background-color: goldenrod;
-    font-size: 25px;
-    font-weight: bold;
-  }
   
   h1{
     color:white;

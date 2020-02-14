@@ -9,7 +9,7 @@
         }
     ],
     "browser_action": {
-        "defualt_popup": "popup.html",
-        "defualt_title": "Instagrams"
+        "default_popup": "popup.html",
+        "default_title": "Instagrams"
     }
 }
